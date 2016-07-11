@@ -1,0 +1,19 @@
+body {
+  background-color: #80d4ea;
+}
+
+#clock {
+  color: white;
+  height: 100px;
+  width: 800px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  padding-top: 70px;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 100px;
+  text-align: center;
+}
